@@ -1,0 +1,3 @@
+---
+pretty: --format pretty
+html: --format html --out=reports/relatorio.html
